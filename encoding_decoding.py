@@ -16,7 +16,7 @@ encoded_string = initial_string.encode('utf-32')
 
 # To choose the right Codec for needed language go to the page:
 # docs.python.org/3.7/library/codecs.html
-# Or choose 'ut-32' as standard for all languages
+# Or choose 'utf-32' as standard for all languages
 
 print('Encoded string of "', initial_string, '" is: ')
 print(encoded_string)
