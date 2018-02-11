@@ -6,6 +6,8 @@ Simple example how to encode and decode strings in Python
 
 ## Description
 Using PyCharm as IDE for Python here is the program which shows how to Encode and Decode strings in Python.
+<br/>To choose the right Codec for needed language go to the page: https://docs.python.org/3.7/library/codecs.html
+<br/>Or choose 'utf-32' as standard for all languages.
 
 ## MIT License
 ## Copyright (c) 2018 Valentyn N Sichkar
