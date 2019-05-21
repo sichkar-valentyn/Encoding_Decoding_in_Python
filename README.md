@@ -1,6 +1,9 @@
 # Encoding and Decoding in Python
 Simple example how to encode and decode strings in Python
 
+### Courses:
+* Explore the course **"Convolutional Neural Networks for Image Classification"** here: https://stepik.org/course/53801/promo
+
 ### Reference to:
 [1] Valentyn N Sichkar. Simple example how to encode and decode strings in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Encoding_Decoding_in_Python (date of access: XX.XX.XXXX)
 
